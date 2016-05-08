@@ -1,0 +1,28 @@
+{
+  "name": "serverless-simpledb-plugin",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Serverless SimpleDB Plugin",
+  "author": "Dante",
+  "license": "MIT",
+  "keywords": [
+    "serverless framework plugin",
+    "serverless plugins",
+    "aws",
+    "aws simpledb",
+    "amazon",
+    "amazon web services",
+    "serverless.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/DanteInc/serverless-simpledb-plugin.git"
+  },
+  "main": "src/index.js",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
