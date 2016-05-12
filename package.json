@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/DanteInc/serverless-simpledb-plugin.git"
+    "url": "http://github.com/danteinc/serverless-simpledb-plugin.git"
   },
   "main": "src/index.js",
   "devDependencies": {},
