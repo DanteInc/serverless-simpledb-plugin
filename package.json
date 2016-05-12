@@ -1,6 +1,6 @@
 {
   "name": "serverless-simpledb-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "node": ">=4.0"
   },
@@ -12,6 +12,7 @@
     "serverless plugins",
     "aws",
     "aws simpledb",
+    "simpledb",
     "amazon",
     "amazon web services",
     "serverless.com"
@@ -21,8 +22,8 @@
     "url": "http://github.com/DanteInc/serverless-simpledb-plugin.git"
   },
   "main": "src/index.js",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "lodash": "^4.12.0"
   }
 }
