@@ -16,7 +16,7 @@ npm install serverless-simpledb-plugin --save-dev
 
 ```js
 "plugins": [
-    "serverless-meta-sync"
+    "serverless-simpledb-plugin"
 ]
 ```
 
